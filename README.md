@@ -159,12 +159,6 @@ Q: What is gradient descent?
 A: “Gradient descent is an optimization algorithm used to minimize loss functions…”
 Sources: Doc 1, Doc 2, …
 
-💼 Add to Resume
-
-Retrieval-Augmented Generation Chatbot (FAISS + OpenAI + HF Spaces)
-Built a production-grade RAG system using FAISS vector search, Sentence Transformers, and OpenAI APIs.
-Optimized startup latency with lazy initialization and precomputed embeddings.
-Deployed full-stack ML application using Gradio on HuggingFace Spaces.
 
 📈 Future Improvements
 
